@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rootObject _jt="IBFSMRObject" binary="false" defaultLng="en_US" dummy="false" expireDate="0" length="0" type="HtmlFile">
+    <properties size="2">
+        <entry key="GeneratedByPath" value="IBFS:/WFC/Repository/Retail_Samples/Reports/Sales_Metrics_YTD.fex"/>
+        <entry key="OutputFormat" value="AHTML"/>
+    </properties>
+    <extendedProperties _jt="HashMap" loadFactor="0.75" threshold="0"/>
+    <nlsValues _jt="HashMap" loadFactor="0.75" threshold="12">
+        <entry>
+            <key _jt="string" value="en_US"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Mon, 28 Oct 2019 02:07 PM EDT Sales_Metrics_YTD"/>
+            </value>
+        </entry>
+    </nlsValues>
+</rootObject>
